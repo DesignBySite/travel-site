@@ -490,5 +490,26 @@ img {
 
 .large-hero__description {
       color: #FFF;
-      font-size: 1.5rem;
+      font-size: 1.875rem;
+      font-weight: 100;
+      text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+      max-width: 30rem;
+      margin: auto;
     }
+
+.btn {
+  background-color: #2f5572;
+  color: #FFF;
+  text-decoration: none;
+  padding: .75rem 1.2rem;
+  display: inline-block;
+}
+
+.btn--orange {
+    background-color: #d59541;
+  }
+
+.btn--large {
+    font-size: 1.25rem;
+    padding: 1.1rem 1.9rem;
+  }
