@@ -14,7 +14,7 @@ var gulp      = require('gulp'),
       //Creates a local server
       server: {
         //Where we want our server to point to
-        baseDir: "docs "
+        baseDir: "docs"
       }
     });
   });
